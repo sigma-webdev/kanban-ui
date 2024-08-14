@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  max-width: 1440px;
+  margin: auto;
+}
+
+@media only screen and (min-width: 1440px) {
+  body {
+    border: 2px solid rgb(219, 219, 219);
+  }
+}
