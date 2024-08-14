@@ -505,7 +505,7 @@ const App = () => {
                     }}
                   >
                     <a
-                      href="#"
+                      href="#id"
                       className={`hover:text-accent hover:font-semibold ${
                         currentTheme === theme &&
                         "bg-gray-200 font-semibold text-accent"
